@@ -1,0 +1,11 @@
+
+#ogimage{
+  padding: 5px;
+  text-align: center;
+  background-color: #FFF;
+  margin: auto;
+  max-width: 300px;
+  font-size: 12px;
+  color: red;
+}
+#ogimage img{width:100%; height: auto; max-height: auto;}
